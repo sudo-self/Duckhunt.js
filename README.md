@@ -1,4 +1,4 @@
-# Duckhunt.js 
+# <a href="https://dh.jessejesse.com">dh.jessejesse.com</a>
 [Play the game](https://duckhuntjs.com)<hr>
 ![Screenshot 2023-11-12 at 9 06 19 PM](https://github.com/sudo-self/Duckhunt.js/assets/119916323/fa3b7a95-839d-4d12-8529-2d4006752446)
 
